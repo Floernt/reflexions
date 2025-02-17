@@ -1,12 +1,12 @@
 ---
 title: "Une ia générative de conneries"
 date: 2025-02-17  
-description: ""
+description: "Un système génératif de conneries? Pour une critique constructive des ia génératives."
 tags: 
   - personal
   - ia
-
 ---
+
 J’ai commencé à explorer le site personnel de [Richard Stallman](https://www.stallman.org/) pour approfondir mes réflexions sur le numérique et les moyens de « resister » à la toute puissance des Gafams (cfr [[résistance numérique WIP]]).
 
 Il y a beaucoup de contenus et j’ai commencé par [What’s bad about ChatGpt](https://www.stallman.org/chatgpt.html)

@@ -71,5 +71,3 @@ Imaginez : une organisation œuvrant à la protection de la liberté d’express
 Cette prise de position, cohérente et en adéquation avec les valeurs, fera sens auprès des membres de cette organisation. 
 
 La prise de position et la prise des responsabilités peut être bien plus forte qu’une utilisation docile d’un réseau aux obscurs motifs qu’il faut « être présent sur XYZ car tout le monde y est ». 
-
-[Source ](https://www.linkedin.com/posts/nicolasvanderbiest_tous-ces-d%C3%A9bats-sur-l%C3%A9thique-des-r%C3%A9seaux-activity-7283868286310612994-aCIK?utm_source=share&utm_medium=member_desktop)
