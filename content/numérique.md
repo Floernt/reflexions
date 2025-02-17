@@ -1,27 +1,29 @@
 ---
 title : numérique
 date : 2025-02-15
-toc: true
-
 ---
 
-Ayant depuis toujours un goût pour les technologies et le numérique, j’ai toujours essayé de regarder le sujet avec un œil critique. Ce regard était cependant distant et vierge de réflexion politique et philosophique. Je suivais l’actualité numérique, sans la questionner. 
+Ayant depuis toujours un goût pour les technologies et le numérique, j’ai observé le sujet sans regard critique. Ce regard était cependant distant et vierge de réflexions politiques et/ou philosophiques. Je suivais l’actualité numérique, sans la questionner.
 
-En 2020, j’ai eu la chance d’écrire un ouvrage juridique sur le droit des réseaux sociaux. Dans cette ouvrage, j’ai essayé de balayer le traitement juridique des situations rencontrées sur les réseaux sociaux. Cette exploration m’a permis d’appréhender et d’approfondir la liberté d’expression et de découvrir les critiques démocratiques, sociétales et/ou philosophique du numérique.
+En 2020, j’ai eu la chance d’écrire [un ouvrage juridique sur le droit des réseaux sociaux](https://www.larcier-intersentia.com/fr/droit-reseaux-sociaux-9782807926196.html). Dans cette ouvrage, j’ai essayé de balayer le traitement juridique des situations rencontrées sur les réseaux sociaux. Cette exploration m’a permis d’appréhender et d’approfondir la liberté d’expression et de découvrir les critiques démocratiques, sociétales et/ou philosophique du numérique.
 
-Depuis lors, je n’ai cessé de suivre cette actualité en essayant d’affûter mon regard sur la chose numérique prenant même parfois le contre-pied de certaines de mes croyances historiques. 
+Depuis lors, je n’ai cessé de suivre cette actualité en essayant d’affûter mon regard sur le numérique prenant même parfois le contre-pied de certaines de mes croyances historiques.
 
-Par ailleurs, en plus de ma prise de conscience de certaines dérives, l’actualité me permet de pousser la réflexion de manière continuelle au gré des évènements. 
+Par ailleurs, en plus de ma prise de conscience de certaines dérives, l’actualité me permet de pousser la réflexion de manière continuelle au gré des évènements.
 
-La crise du Covid, le mouvement Woke, le rachat de Twitter par Elon Musk, l’entrée en vigueur du Réglementa européen sur les services numériques, la réélection de Trump, les déclarations de Zuckerberg en janvier 25, etc… sont, à chaque fois des raisons pour approfondir ma réflexion sur le sujet et aiguiser mon opinion sur le numérique. 
+La crise du Covid, le mouvement Woke, le rachat de Twitter par Elon Musk, l’entrée en vigueur du Réglementa européen sur les services numériques, la réélection de Trump, les déclarations de Zuckerberg en janvier 25, etc… sont, à chaque fois, des raisons pour approfondir ma réflexion sur le sujet et aiguiser mon opinion sur le numérique.
 
-La prise de conscience de l’omniprésence des grandes entreprises technologiques devient collective et le traitement médiatique de cet état de fait m’amène à échanger de plus en plus mon point de vue. 
+La conscience de l’omniprésence des grandes entreprises technologiques devient collective et le traitement médiatique de cet état de fait m’amène à échanger de plus en plus mon point de vue.
 
-Dans le but de partager ma réflexion et les ressources qui m’ont marqués, cette page sera mise à jour au gré de mes pérégrinations et de mes lectures. 
+Dans le but de partager ma réflexion et les ressources qui m’ont marquées, cette page sera mise à jour au gré de mes pérégrinations et de mes lectures.
 
-J’espère que le curieux trouvera les premiers ressources pour explorer ce vaste sujet qui nourriront sa propre réflexion. 
+J’espère que le curieux trouvera les quelques ressources intéressantes pour explorer ce vaste sujet et qu'elles pourront nourrir sa propre réflexion.
 
 # Ressources
+
+## posts
+
+[Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
 
 ## livres
 
