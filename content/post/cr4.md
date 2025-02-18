@@ -2,8 +2,8 @@
 title: cryptoreflexions4
 description: Réflexion sur le rôle du régulateur au 21e siècles.
 date : 2023-06-03
-tags: ["cryptoreflexion"]
-toc: true
+tags: cryptoreflexion
+toc : false 
 ---
 
 _“Le rôle du régulateur doit être de favoriser les échanges de tous les acteurs, de faire dialoguer, de mobiliser et de responsabiliser l’ensemble de la société et de parler en son nom. Le régulateur, quel qu’il soit, posera ainsi les bases de ce qui pourrait être une conception participative de la régulation (...). En d’autre termes, le régulateur doit être l’instrument de la société pour contrebalancer le pouvoir des plus forts”. “_

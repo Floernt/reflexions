@@ -3,8 +3,8 @@ title: cryptoreflexions2
 description: Réflexions sur l'actualité législative française et le renforcement réglementaire du PSAN.
 date : 2023-01-30
 tldr: 
-tags: ["cryptoreflexion"]
-toc: true
+tags: cryptoreflexion
+toc : false 
 ---
 # Mise en contexte
 

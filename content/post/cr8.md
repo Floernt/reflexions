@@ -2,8 +2,8 @@
 title : cryptoreflexions8
 date : 2024-05-23 
 description : Entrée en vigueur de MICA
-tags = : ["cryptoreflexion"]
-toc: true
+tags = : cryptoreflexion
+toc: false
 --- 
 Le 6 mai 2024, un symposium sur le réglement européen Mica, la monnaie électronique et les paiements a été organisé par HEC-Paris dans le cadre de la [chaire Worldline](https://www.hec.edu/fr/faculte-et-recherche/worldline).
 
