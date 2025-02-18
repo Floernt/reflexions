@@ -3,9 +3,8 @@ title: "L'impact politique des réseaux sociaux"
 date: 2025-01-22
 description: ""
 tags: 
-  - personal
-  - libex
-toc: true
+- personal
+- libex
 ---
 //work in progress- 03/02/25//
 

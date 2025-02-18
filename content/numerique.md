@@ -1,5 +1,5 @@
 ---
-title : numérique
+title : numerique
 date : 2025-02-15
 ---
 
