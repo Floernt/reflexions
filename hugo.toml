@@ -23,7 +23,7 @@ weight = 2
 
 [[menu.main]]
 name = "numérique"
-url = "/numérique"
+url = "/numerique"
 weight = 3
 
 [[menu.main]]
