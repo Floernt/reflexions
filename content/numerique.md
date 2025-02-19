@@ -37,6 +37,8 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## web
 
+[Electronic Foundation Frontier (EFF) Site](https://www.eff.org/) 
+
 [Richard Stallman's Personal Site](https://stallman.org/) 
 
 [Binaire - l'informatique : science et technique au coeur de l'informatique (Le Monde)](https://www.lemonde.fr/blog/binaire/) 
