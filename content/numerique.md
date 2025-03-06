@@ -21,11 +21,14 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 # Ressources
 
-## posts
+## Posts
 
+[Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
 [Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
 
-## livres
+## Livres
+
+[David Chavalarias - Toxic Data](https://editions.flammarion.com/toxic-data/9782080488305) 
 
 [Anne Alombert -Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)
 
@@ -35,7 +38,9 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 [Louis de Diesbach -  Liker sa servitude](https://fypeditions.com/liker-sa-servitude) 
 
-## web
+[Serge Abiteboul, Jean Cattan - Nous sommes les réseaux sociaux](https://www.odilejacob.fr/catalogue/sciences/informatique/nous-sommes-les-reseaux-sociaux_9782415001704.php)
+
+## Web
 
 [Electronic Foundation Frontier (EFF) Site](https://www.eff.org/) 
 
@@ -54,3 +59,4 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 [Synth Media](https://synthmedia.fr/) 
 
 [Culture numérique - le blogue de marcello vitali-rosati](https://blog.sens-public.org/marcellovitalirosati/)
+
