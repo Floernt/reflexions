@@ -24,7 +24,10 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 ## Posts
 
 [Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
+
 [Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
+
+[L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}}) 
 
 ## Livres
 
