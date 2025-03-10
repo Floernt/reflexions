@@ -27,7 +27,7 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 [Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
 
-[L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}}) 
+[L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}})
 
 ## Livres
 
