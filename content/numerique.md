@@ -21,7 +21,7 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 # Ressources
 
-## Posts
+## Mes articles
 
 [Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
 
@@ -29,9 +29,11 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 [L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}})
 
-## Livres
+## Quelques livres
 
 [David Chavalarias - Toxic Data](https://editions.flammarion.com/toxic-data/9782080488305) 
+
+[Serge Abiteboul, François Bancilhon - Vive les communs !](https://www.odilejacob.fr/catalogue/sciences/informatique/vive-les-communs-numeriques-_9782415007980.php)
 
 [Anne Alombert -Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)
 
@@ -43,7 +45,15 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 [Serge Abiteboul, Jean Cattan - Nous sommes les réseaux sociaux](https://www.odilejacob.fr/catalogue/sciences/informatique/nous-sommes-les-reseaux-sociaux_9782415001704.php)
 
-## Web
+## Sur le Web
+
+[Framablog - le blog de Framasof](https://framablog.org/)
+
+[Chris Wiegman's Blog](https://chriswiegman.com/)
+
+[Ploum.net -le blog de Lionel Dricot](https://ploum.net/index_all.html)
+
+[Robin Berjon's Website](https://berjon.com/) 
 
 [Electronic Foundation Frontier (EFF) Site](https://www.eff.org/) 
 
@@ -63,3 +73,11 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 [Culture numérique - le blogue de marcello vitali-rosati](https://blog.sens-public.org/marcellovitalirosati/)
 
+
+## Quelques outils 
+
+[FramaSoft - Degooglisons internet](https://degooglisons-internet.org/fr/)
+
+[European alternatives for digital products](https://european-alternatives.eu/)
+
+[France Numérique Libre](https://france-numerique-libre.org/ressources/) 
