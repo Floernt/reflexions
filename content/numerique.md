@@ -31,6 +31,8 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## Quelques livres
 
+[David Colon - La guerre de l'information](https://www.tallandier.com/livre/la-guerre-de-linformation/) 
+
 [David Chavalarias - Toxic Data](https://editions.flammarion.com/toxic-data/9782080488305) 
 
 [Serge Abiteboul, François Bancilhon - Vive les communs !](https://www.odilejacob.fr/catalogue/sciences/informatique/vive-les-communs-numeriques-_9782415007980.php)
