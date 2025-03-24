@@ -23,6 +23,8 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## Mes articles
 
+[L'IA est une transformation]({{<relref "post/ia-transformation.md">}}) 
+
 [Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
 
 [Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
