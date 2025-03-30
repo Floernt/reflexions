@@ -6,7 +6,7 @@ tags:
 - personal
 - ia
 ---
-
+<div style="text-align: right"> 
 J’ai commencé à explorer le site personnel de [Richard Stallman](https://www.stallman.org/) pour approfondir mes réflexions sur le numérique et les moyens de « resister » à la toute puissance des Gafams.
 
 Il y a beaucoup de contenus et j’ai commencé par [What’s bad about ChatGpt](https://www.stallman.org/chatgpt.html)
@@ -42,3 +42,5 @@ S’il ne faut effectivement pas vouer un culte à ces IA génératives, consid�
 Prenons un cas d'usage, socialement acceptable : Demander à un LLM de reformuler un contenu scientifique pour l’expliquer à un enfant de 10 ans (ou 20 ans) et vous verrez la puissance de l’outil. Je ne dis pas que l’IA va remplacer les professeurs ou l’école mais il me semble qu’on peut légitiment considérer les LLMs comme de très bons outils pour coacher et apprendre, par exemple.Le département de l’Education du Royaume a sorti un [policy paper](https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education) sur le sujet le 22 janvier 2025 qui indique par exemple "*If used safely, effectively and with the right infrastructure in place, AI can ensure that every child and young person, regardless of their background, is able to achieve at school or college and develop the knowledge and skills they need for life*". 
 
 Je ne veux pas paraître pour un défenseur des IA sans critique ni nuance mais on voit poindre de plus en plus de critiques de ce type avec, reconnaissons le, une véhémence inutile. Moi aussi je voulais rééquilibrer le discours en constatant, au surplus que la critique est aisée mais l’art est difficile. Car au delà du parti pris manifeste et affiché, ces critiques et commentaires n'apportent aucun piste de solution et je serai curieux de lire une critique constructive avec des propositions concrètes d'amélioration de ces outils.
+
+</div>
