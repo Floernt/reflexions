@@ -23,6 +23,8 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## Mes articles
 
+[Déléguer le connu pour mieux penser l’inconnu]({{<relref "post/deleguer-le-connu.md">}}) 
+
 [L'IA est une transformation]({{<relref "post/ia-transformation.md">}}) 
 
 [Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
