@@ -53,6 +53,12 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## Sur le Web
 
+[Standblog - Tristan Nitot sur la technologie, l'Internet et les libertés numériques](https://www.standblog.org/blog/)
+
+[Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
+
+[Dans les algorithmes](https://danslesalgorithmes.net/)
+
 [Framablog - le blog de Framasof](https://framablog.org/)
 
 [Chris Wiegman's Blog](https://chriswiegman.com/)
