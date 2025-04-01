@@ -6,7 +6,9 @@ tags:
 - personal
 - ia
 ---
-<div style="text-align: right"> 
+
+<div style="text-align: justify"> 
+
 Je continue à m'interroger sur la manière d'utiliser l'IA générative dans nos vies et ses impacts cognitifs. Sans intention académique ou scientifique. Juste une réflexion personnelle que je retranscris pour la partager et me permettre d'avancer dans celle-ci. 
 
 Je questionne mon utilisation de l'IA. Alors que j'écrivais [ici](https://floernt.github.io/reflexions/post/ia-transformation/) que l'usage abusif et sans complexe de l'IA générative pour écrire du contenu "réflexif" m'était insupportable, je me suis laissé piéger par la machine. 
@@ -74,6 +76,4 @@ Mais si cette paresse est assumée. Si ce petit "hack" me permettait d'y arriver
 En fait, c'est un raccourci que je trouve salutaire, car il me permet d'exprimer plus facilement et simplement des choses plus profondes. L'effort d'écrire ce genre de note est une exploration et une réflexion qui me permet d'ouvrir l'esprit. En ce sens, je pense que l'utilisation d'une IA générative à cette fin n'est peut-être pas si mal. 
 
 `C’est paradoxal, mais c’est ainsi : plus la machine m’aide à écrire, plus je peux me concentrer sur ce qui ne s’écrit pas si facilement.`
-
-
 </div>

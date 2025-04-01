@@ -2,6 +2,7 @@
 title : about
 ---
 
+<div style="text-align: right"> 
 quoi & pourquoi
 
 Le site Reflexions est un espace où j'expérimente, j'apprends et je partage mes réflexions sur des sujets divers.  
@@ -31,4 +32,6 @@ J'espère que le contenu que je partage pourra donner à une personne un point d
 
 # à propos de moi
 
-  Je m'appelle Florian et voici mon site 'réflexions' où j'expérimente et je partage des réflexions. Plus d'infos sur mon parcours professionnel [ici](www.avroy.be/florian-ernotte).
+  Je m'appelle Florian et voici mon site 'réflexions' où j'expérimente et je partage des pensées et reflexions. Plus d'infos sur mon parcours professionnel [ici](www.avroy.be/florian-ernotte).
+
+  </div>
