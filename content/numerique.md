@@ -21,17 +21,7 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 # Ressources
 
-## Mes articles
-
-[Déléguer le connu pour mieux penser l’inconnu]({{<relref "post/deleguer-le-connu.md">}}) 
-
-[L'IA est une transformation]({{<relref "post/ia-transformation.md">}}) 
-
-[Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
-
-[Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
-
-[L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}})
+[Dualité]({{<relref "dualite.md">}}) - Mon carnet de notes dédié à mes réflexions autour des sujets liés au numérique, au digital et à la technologie. 
 
 ## Quelques livres
 
