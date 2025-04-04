@@ -5,6 +5,7 @@ description: L'IA ne constitue pas seulement une optimisation ponctuelle des pro
 tags: 
 - personal
 - ia
+- dualite
 ---
 
 <div style="text-align: right"> 

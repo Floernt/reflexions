@@ -6,9 +6,10 @@ tags:
 - personal
 - ia
 - numerique
+- dualite
 ---
 
-<div style="text-align: right"> 
+<div style="text-align: justify"> 
 C'est malheureusement le constat que certains pourraient tirer des événements qui émaillent notre quotidien. 
 
 Durant l'autonome 2024, j'ai découvert   [Jacques Ellul](https://www.jacques-ellul.org/). Je vous renvoie à sa page [Wikipedia ](https://fr.wikipedia.org/wiki/Jacques_Ellul) qui est assez riche. Selon la théorie "techno critique" de Ellul, la préoccupation de l'immense majorité des hommes de notre temps est **de rechercher en toutes choses la méthode absolument la plus efficace**.

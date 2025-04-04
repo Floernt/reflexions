@@ -2,16 +2,18 @@
 title: Déléguer le connu pour mieux penser l’inconnu
 date: 2025-03-30
 description: Plus la machine m’aide à écrire, plus je peux me concentrer sur ce qui ne s’écrit pas si facilement
+aliases : 
 tags: 
 - personal
 - ia
+- dualite
 ---
 
 <div style="text-align: justify"> 
 
 Je continue à m'interroger sur la manière d'utiliser l'IA générative dans nos vies et ses impacts cognitifs. Sans intention académique ou scientifique. Juste une réflexion personnelle que je retranscris pour la partager et me permettre d'avancer dans celle-ci. 
 
-Je questionne mon utilisation de l'IA. Alors que j'écrivais [ici](https://floernt.github.io/reflexions/post/ia-transformation/) que l'usage abusif et sans complexe de l'IA générative pour écrire du contenu "réflexif" m'était insupportable, je me suis laissé piéger par la machine. 
+Je questionne mon utilisation de l'IA. Alors que j'écrivais [ici](https://reflexions.florianernotte.be/post/ia-transformation/) que l'usage abusif et sans complexe de l'IA générative pour écrire du contenu "réflexif" m'était insupportable, je me suis laissé piéger par la machine. 
 
 Je l'ai utilisé pour écrire des idées sur un sujet qui me tient à cœur. J'ai été séduit par la rapidité et l'apparente pertinence du contenu généré. Je suis presque tombé dans une forme de paresse que je décriais quelques semaines avant. 
 
