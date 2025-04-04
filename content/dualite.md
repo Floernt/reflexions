@@ -3,6 +3,7 @@ title : dualité
 date : 2025-04-04
 tags: 
 - dualite
+
 ---
 
 Dualité, c'est le nom de de mon carnet de notes numériques reprenant mes réflexions autour des sujets liés au numérique, au digital et à la technologie.  Donner un nom à ce projet est une manière de structurer ce projet au travers d'une trame et de placer un cadre pour canaliser ces réflexions sans les enfermer. Continuer à le faire au gré de l'actualité, de mes lectures et de mes expériences. 
