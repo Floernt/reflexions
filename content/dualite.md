@@ -16,6 +16,8 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
+[Eat local tech]({{<relref "post/eatlocaltech.md">}})  
+
 [Déléguer le connu pour mieux penser l’inconnu]({{<relref "post/deleguer-le-connu.md">}}) 
 
 [L'IA est une transformation]({{<relref "post/ia-transformation.md">}}) 
