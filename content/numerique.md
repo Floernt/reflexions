@@ -43,6 +43,8 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## Sur le Web
 
+[Le Wiki d'Herminien - Pour un numérique respectueux et émancipateur](https://wiki.pcet.link/accueil) 
+
 [Standblog - Tristan Nitot sur la technologie, l'Internet et les libertés numériques](https://www.standblog.org/blog/)
 
 [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
