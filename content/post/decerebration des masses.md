@@ -14,11 +14,11 @@ Suite à un post de Dominique Boullier sur LinkedIn, je réagis à l’idée que
 
 ---
 
-Échange intéressant sur [LinkedIn](https://www.linkedin.com/posts/dominique-boullier-05b90815_introducing-claude-for-education-activity-7317923952008347651-eQgN?utm_medium=ios_app&rcm=ACoAAB2e4NABnCG8gF81YstpRVm2CiVrM1_QXF4&utm_source=social_share_send&utm_campaign=copy_link) à la suite d'un poste publié par un professeur de sociologie, Dominique Bouiller. Un petit tour sur sa page Wikipedia vous permettra d’avoi un aperçu de son parcours (ça vaut le coup). Comme souvent, une prise de position raisonnable en apparence mais qui contient, de manière subtile, une prise de position assez clivante. L’auteur du poste considère que: 
+Échange intéressant sur [LinkedIn](https://www.linkedin.com/posts/dominique-boullier-05b90815_introducing-claude-for-education-activity-7317923952008347651-eQgN?utm_medium=ios_app&rcm=ACoAAB2e4NABnCG8gF81YstpRVm2CiVrM1_QXF4&utm_source=social_share_send&utm_campaign=copy_link) à la suite d'un poste publié par un professeur de sociologie, Dominique Boullier. Un petit tour sur sa page Wikipedia vous permettra d’avoi un aperçu de son parcours (ça vaut le coup). Comme souvent, une prise de position raisonnable en apparence mais qui contient, de manière subtile, une prise de position assez clivante. L’auteur du poste considère que: 
 
 >Tout le système de réponses des IA génératives est une entreprise de décérébration de masse 
 
-J’avais déjà bondi de ma chaise quand j’avais lu le titre provocateur d’une tribune parue dans l’Humanité le 31 mars 2025 : [l’IA va-t-elle nous rendre cretins. ](https://www.humanite.fr/en-debat/citoyennete/lia-va-t-elle-nous-rendre-cretins) Sur le fond, deux académiques prennent la plume pour partager leur point de vue. J’avais été séduit par l’approche nuancée et centrée sur l’utilisateur de Anne Cordier tandis que la posture critique de Marius Bertolucci me laissait un peu sur ma faim. 
+J’avais déjà bondi de ma chaise quand j’avais lu le titre provocateur d’une tribune parue dans l’Humanité le 31 mars 2025 : [l’IA va-t-elle nous rendre cretins. ](https://www.humanite.fr/en-debat/citoyennete/lia-va-t-elle-nous-rendre-cretins). Sur le fond, deux académiques prennent la plume pour partager leur point de vue. J’avais été séduit par l’approche nuancée et centrée sur l’utilisateur d'Anne Cordier tandis que la posture critique de Marius Bertolucci me laissait un peu sur ma faim. 
 
 S’il est clair que les entreprises technologiques n’ont pas d’objectifs philanthropiques et qu’elles ont une volonté de s’enrichir, considérer qu’elles sont des entreprises à créer des crétins décérébrés est une étape que je ne pense pas qu’il faut franchir. 
 
@@ -50,9 +50,9 @@ Pourquoi?
 
 Parce que nous vivons dans une société démocratique qui a choisi de placer le curseur du côté des libertés individuelles mais également dans un modèle capitaliste. Est-ce qu'on peut objectivement critiquer les Big Techs? 
 
-Les Big Techs ont-elle pris le pouvoir de force ou leur avons-nous donner? 
+Les Big Techs ont-elle pris le pouvoir de force ou leur avons-nous donné ? 
 
-Je crois que le cœur du problème est là. Dans les discours critique de la technologie, il y a souvent une absence de remise en question de nos consommations. "C'est la faute des big techs et nous, pauvres utilisateurs, nous sommes victimes de ces pratiques de décérébration." Je pense que ce schéma de penser est précisément celui qui nous place dans cette situation. Si les big techs ont une responsabilité, il ne faut pas aussi oublier celles des utilisateurs et se rappeler que nous avons, parfois inconsciemment, donner le pouvoir au Big techs en consommant de manière inconsciente leurs produits et services numériques. 
+Je crois que le cœur du problème est là. Dans les discours critiques de la technologie, il y a souvent une absence de remise en question de nos consommations. "C'est la faute des big techs et nous, pauvres utilisateurs, nous sommes victimes de ces pratiques de décérébration." Je pense que ce schéma de penser est précisément celui qui nous place dans cette situation. Si les big techs ont une responsabilité, il ne faut pas aussi oublier celles des utilisateurs et se rappeler que nous avons, parfois inconsciemment, donner le pouvoir au Big techs en consommant de manière inconsciente leurs produits et services numériques. 
 
 ### Ne pas déresponsabiliser l'utilisateur
 
