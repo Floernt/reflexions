@@ -16,6 +16,7 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
+[L'autonomie numérique pour résister]({{<relref "post/autonomie numerique.md">}})  
 
 [Sur la décérébration des masses]({{<relref "post/decerebration des masses.md">}})  
 
