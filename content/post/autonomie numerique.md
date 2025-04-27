@@ -6,6 +6,7 @@ tags:
 - personal
 - numerique
 - dualite
+- essai
 tldr: En mars, je partageais quelques réflexions sur la « résistance numérique ». L’idée n’est pas d’appeler à la déconnexion totale (irréaliste), mais d’inviter à une lucidité critique face à une technologie omniprésente. La souveraineté numérique semble une réponse à la domination des BigTechs, mais elle reste difficile à atteindre sans convergence entre offre européenne et demande citoyenne. À défaut, peut-être faut-il viser d’abord l’autonomie numérique individuelle. Comprendre les outils, choisir consciemment, sortir de la servitude volontaire. Et ça commence par la littératie numérique."
 ---
 Début mars 2025, j'écrivais sur la [résistance numérique](https://reflexions.florianernotte.be/post/resistance-numerique/). Cette note a été inspirée de discussion lors d'un séminaire en décembre 2024 où le sujet avait été abordé par certains (si vous vous reconnaissez, envoyez moi un mail, ça me fera plaisir de savoir que vous m'avez lu;)). Lors de cette discussion, la question qui émergeait était de savoir quoi faire et surtout par où commencer face au glissement qui commençait à s’opérer.
