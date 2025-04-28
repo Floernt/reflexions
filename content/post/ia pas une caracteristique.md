@@ -23,7 +23,7 @@ J'avais déjà écrit sur cet aspect [ici](https://reflexions.florianernotte.be/
 
 Aujourd'hui, j'ai l'impression que beaucoup de personnes utilisent les LLMs un peu comme le monsieur assis sur le capot de sa voiture ci-dessous. On ajoute un nouvelle couche sur quelque chose d'existant en espérant que ça fonctionne "mieux" ou pensant à des gains de productivité démentiels. On est dans une sorte de *«wishful thinking »*. Ca crée évidemment des déceptions. 
 
-![image](https://media.licdn.com/dms/image/v2/D4E22AQGVHj-udPUfgw/feedshare-shrink_2048_1536/B4EZUnzFc3H0Ao-/0/1740129459986?e=1748476800&v=beta&t=P1F1PHzlLkn4gkFqbrLEW5t5AoAuCggib-_Ih5z2I9U) 
+![image](https://florianernotte.be/wp-content/uploads/2025/04/1740129459950.jpg)  
 [source](https://www.linkedin.com/posts/pieter-goetghebuer-57689714b_ik-had-afgelopen-donderdagavond-het-genoegen-activity-7299764580136681473-n634?utm_source=share&utm_medium=member_android&rcm=ACoAAB2e4NABnCG8gF81YstpRVm2CiVrM1_QXF4) 
 
 Quand je dois expliquer ce que ne fait pas l'IA générative, je prends l'image d'un clou qu'on voudrait planter avec une scie. C'est techniquement possible mais ce n'est pas fait pour ça. On dit souvent qu’il ne faut pas utiliser les LLMs comme un moteur de recherche  car ce n’est pas fait pour ça. On est dans la même réflexion ici encore. 
