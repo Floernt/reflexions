@@ -1,5 +1,5 @@
 ---
-title: Asking a ²LLM for help is fine
+title: Asking a LLM for help is fine
 date: 2025-05-14
 description: Using AI as a helper at work shouldn’t be condemned.
 tags: 
