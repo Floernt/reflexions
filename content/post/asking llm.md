@@ -3,9 +3,9 @@ title: Asking a LLM for help is fine
 date: 2025-05-14
 description: Using AI as a helper at work shouldn’t be condemned.
 tags: 
-- personal
 - numerique
 - ia
+- dualite
 tldr: AI helps people ask questions they might be too shy to ask out loud. Like Google before it, it's a useful tool—not perfect, but practical. Encouraging self-research isn’t dismissive; it builds autonomy. Human connection matters, but it doesn't need to rely on easily searchable questions.
 
 ---
