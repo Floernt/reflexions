@@ -16,6 +16,8 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 ## Mon carnet de notes
 
+[Asking LLM for help is fine]({{relref "post/asking llm.md")
+
 [L’ia n’est pas une caractéristique produit]({{relref "post/ia pas une caracteristique.md")
 
 [L'autonomie numérique pour résister]({{<relref "post/autonomie numerique.md">}})  
@@ -28,8 +30,9 @@ Dualité, c'est enfin une lutte et un combat entre ma technophilie et une forme 
 
 [L'IA est une transformation]({{<relref "post/ia-transformation.md">}}) 
 
-[Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}}) 
+[Vers une résistance numérique]({{<relref "post/resistance-numerique.md">}})
 
 [Une ia générative de conneries]({{<relref "post/ia-generative-de-conneries.md">}}) 
 
 [L'impact politique des réseaux sociaux]({{<relref "post/impact-politique-réseaux-sociaux.md">}})
+
