@@ -25,11 +25,17 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 ## Quelques livres
 
+[Mathieu Corteel - Ni dieu ni IA](https://www.editionsladecouverte.fr/ni_dieu_ni_ia-9782348084614)
+
+[Matteo Pasquinelli - The Eye of the Master](https://www.penguinrandomhouse.com/books/733967/the-eye-of-the-master-by-matteo-pasquinelli/)
+
 [David Colon - La guerre de l'information](https://www.tallandier.com/livre/la-guerre-de-linformation/) 
 
 [David Chavalarias - Toxic Data](https://editions.flammarion.com/toxic-data/9782080488305) 
 
 [Serge Abiteboul, François Bancilhon - Vive les communs !](https://www.odilejacob.fr/catalogue/sciences/informatique/vive-les-communs-numeriques-_9782415007980.php)
+
+[Asma Mhalla - Technopolitique ](https://www.seuil.com/ouvrage/technopolitique-asma-mhalla/9782021548549)
 
 [Anne Alombert -Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)
 
