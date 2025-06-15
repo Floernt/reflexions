@@ -24,6 +24,7 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 [Dualité]({{<relref "dualite.md">}}) - Mon carnet de notes dédié à mes réflexions autour des sujets liés au numérique, au digital et à la technologie. 
 
 ## Quelques livres
+(classé par ordre de lecture (du plus récent au plus ancien))
 
 [Mathieu Corteel - Ni dieu ni IA](https://www.editionsladecouverte.fr/ni_dieu_ni_ia-9782348084614)
 
@@ -35,6 +36,8 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 
 [Serge Abiteboul, François Bancilhon - Vive les communs !](https://www.odilejacob.fr/catalogue/sciences/informatique/vive-les-communs-numeriques-_9782415007980.php)
 
+[Ethan Mollick - Co-Intelligence](https://www.penguin.co.uk/books/460207/co-intelligence-by-mollick-ethan/9780753560778)
+
 [Asma Mhalla - Technopolitique ](https://www.seuil.com/ouvrage/technopolitique-asma-mhalla/9782021548549)
 
 [Anne Alombert -Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)
@@ -42,6 +45,10 @@ J’espère que le curieux trouvera les quelques ressources intéressantes pour 
 [Marcello Vitali-Rosati - Éloge du bug](https://www.editions-zones.fr/livres/eloge-du-bug)
 
 [Gaspar Koening - Voyage d’un philosophe au pays des libertés](https://editions-observatoire.com/livre/Voyages-d%27un-philosophe-aux-pays-des-libertes/176) 
+
+[Luc Julia - L'intelligence artificielle n'existe pas](https://www.jailu.com/lintelligence-artificielle-nexiste-pas/9782290219522)
+
+[Eric Sadin - La vie spectrale](https://www.grasset.fr/livre/la-vie-spectrale-9782246831358/)
 
 [Louis de Diesbach -  Liker sa servitude](https://fypeditions.com/liker-sa-servitude) 
 
