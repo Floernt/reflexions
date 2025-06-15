@@ -1,6 +1,6 @@
 ---
 title: Good is relative
-date: 2025-06-16
+date: 2025-06-15
 description: The best is relative to your constraints
 tags: 
 - personal
